@@ -13,4 +13,5 @@ export default defineConfig({
     // }),
     svgr(),
   ],
+  base: '/projeto-ranek',
 });
