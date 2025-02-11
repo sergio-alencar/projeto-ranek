@@ -7,7 +7,7 @@ const Header = () => {
     <nav className={styles.header}>
       <ul>
         <li>
-          <NavLink className={styles.link} to='/projeto-ranek' end>
+          <NavLink className={styles.link} to='projeto-ranek'>
             Produtos
           </NavLink>
         </li>
